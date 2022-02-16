@@ -1,4 +1,4 @@
-Changed# git-practice
+ChangED# git-practice
 このリポジトリはGit動画講座用です．
 <<<<<<< HEAD
 mainto
